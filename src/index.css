@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.main{
+  height: 100;
+  width: 100;
+  margin: 20px;
+  background-color:#B6DA90;
+  text-align: center
+}
+
+.but{
+  height: 100;
+  width: 100;
+  margin: 20px;
+  align-items: center;
+  background-color: aqua;
+  align-content: center;
+}
+
+.image
+{
+  height: 100;
+  width: 100;
+  margin: 20px;
+}
